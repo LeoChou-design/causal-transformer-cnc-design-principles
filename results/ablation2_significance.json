@@ -1,0 +1,20 @@
+{
+  "joint_fixed_vs_single_task_fault_auroc_TWF": {
+    "joint_fixed": 0.9604640654330824,
+    "single_task_fault": 0.957703846922316,
+    "t": -1.1039321706251786,
+    "p": 0.30611957724686184
+  },
+  "joint_fixed_vs_joint_dynamic_auroc_TWF": {
+    "joint_fixed": 0.9604640654330824,
+    "joint_dynamic": 0.9594191858191463,
+    "t": -0.2604389543862016,
+    "p": 0.8020201498763587
+  },
+  "joint_fixed_vs_single_task_wear_wear_r2": {
+    "joint_fixed": 0.8749329894781113,
+    "single_task_wear": 0.8706800863146782,
+    "t": -0.9565619967206844,
+    "p": 0.3706496290847745
+  }
+}

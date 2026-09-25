@@ -1,0 +1,38 @@
+{
+  "auroc_TWF: causal+gap (original baseline) vs causal+last (final configuration)": {
+    "mean_a": 0.9222388047384862,
+    "mean_b": 0.9551047103802093,
+    "t": 3.6214524693136587,
+    "p": 0.008493776728125983
+  },
+  "auroc_TWF: bidirectional+gap vs causal+last (final configuration)": {
+    "mean_a": 0.9615745105278738,
+    "mean_b": 0.9551047103802093,
+    "t": -1.157083471991998,
+    "p": 0.28519280452305196
+  },
+  "auroc_OSF: causal+gap (original baseline) vs causal+last (final configuration)": {
+    "mean_a": 0.9032407181595293,
+    "mean_b": 0.9298914165123078,
+    "t": 3.864140015130946,
+    "p": 0.006178317851955304
+  },
+  "auroc_OSF: bidirectional+gap vs causal+last (final configuration)": {
+    "mean_a": 0.9287644976186559,
+    "mean_b": 0.9298914165123078,
+    "t": 0.24509455350918344,
+    "p": 0.8134132738708328
+  },
+  "wear_r2: causal+gap (original baseline) vs causal+last (final configuration)": {
+    "mean_a": 0.754826692243417,
+    "mean_b": 0.8725071102380753,
+    "t": 9.890171552167201,
+    "p": 2.3008799865391054e-05
+  },
+  "wear_r2: bidirectional+gap vs causal+last (final configuration)": {
+    "mean_a": 0.8511646638313929,
+    "mean_b": 0.8725071102380753,
+    "t": 7.795755421125882,
+    "p": 0.00010747486036654826
+  }
+}
